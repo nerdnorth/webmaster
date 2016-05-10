@@ -5,6 +5,10 @@ body {
 	max-width: 35em;
 }
 
+pre {
+	margin: 0 0 0 20px;
+}
+
 .note {
 	font-style: italic;
 }
